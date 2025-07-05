@@ -54,7 +54,6 @@ Great for listening to books, notes, or articles without internet.
 ```
 pdf_tts_reader/
 ├─ main.py               # main script
-├─ LICENSE
 └─ README.md
 ```
 

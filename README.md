@@ -63,6 +63,3 @@ pdf_tts_reader/
 
 “Python PDF Reader & Text-to-Speech Tutorial” by Original Creator (Standard YouTube License)  
 <https://www.youtube.com/watch?v=Flm2YHEFd5A>
-
-
-📄 **[View Screen Layouts (PDF)](Screen_Layouts.pdf)**

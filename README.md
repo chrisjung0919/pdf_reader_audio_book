@@ -65,4 +65,4 @@ pdf_tts_reader/
 <https://www.youtube.com/watch?v=Flm2YHEFd5A>
 
 
-📄 **[View Screen Layouts (PDF)](docs/Screen_Layouts.pdf)**
+📄 **[View Screen Layouts (PDF)](Screen_Layouts.pdf)**
